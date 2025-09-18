@@ -55,5 +55,3 @@ async function listUsersForOf(real_id) {
   }
 }
 change2();
-aaaa
-bbb

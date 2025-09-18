@@ -7,4 +7,10 @@ function xoa_lap() {
   }
   console.log(s1);
 }
-xoa_lap();
+function find_max() {
+  let s = "ckka";
+  let new_s = new Set(s);
+  let s1 = "";
+  console.log(new_s);
+}
+find_max();
