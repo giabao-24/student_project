@@ -11,6 +11,6 @@ function find_max() {
   let s = "ckka";
   let new_s = new Set(s);
   let s1 = "";
-  console.log(new_s);
+  console.log(new_s);aa
 }
 find_max();
